@@ -18,7 +18,7 @@ urlFragment: active-directory-node-b2c-sign-up-user-flow-invitation-code
 | `InvitationCodeAzureFunction` | Sample source code for Node.js HTTP trigger.    |
 | `README.md`                 | This README file.                          |
 | `.gitignore`                | Define what to ignore at commit time.      |
-| `CONTRIBUTION.md`                   | Guidance on how to contribute to this repository.        |
+| `CONTRIBUTING.md`                   | Guidance on how to contribute to this repository.        |
 | `LICENSE.md`                   | The license for the sample.                |
 | `SECURITY.md`                   | The security notice for the sample.                |
 
